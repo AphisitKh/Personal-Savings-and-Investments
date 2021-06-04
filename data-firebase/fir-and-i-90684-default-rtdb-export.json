@@ -1,0 +1,609 @@
+{
+  "SET50" : [ null, {
+    "PV" : 169,
+    "name" : "ADVANC",
+    "rate" : 4.08
+  }, {
+    "PV" : 62.25,
+    "name" : "AOT",
+    "rate" : 0.31
+  }, {
+    "PV" : 4.8,
+    "name" : "AWC",
+    "rate" : 0.27
+  }, {
+    "PV" : 18.6,
+    "name" : "BAM",
+    "rate" : 2.79
+  }, {
+    "PV" : 114.5,
+    "name" : "BBL",
+    "rate" : 2.18
+  }, {
+    "PV" : 21.5,
+    "name" : "BDMS",
+    "rate" : 2.62
+  }, {
+    "PV" : 8.05,
+    "name" : "BEM",
+    "rate" : 1.32
+  }, {
+    "PV" : 43.75,
+    "name" : "BGRIM",
+    "rate" : 1.12
+  }, {
+    "PV" : 131,
+    "name" : "BH",
+    "rate" : 2.44
+  }, {
+    "PV" : 34.5,
+    "name" : "BJC",
+    "rate" : 2.29
+  }, {
+    "PV" : 9,
+    "name" : "BTS",
+    "rate" : 5.58
+  }, {
+    "PV" : 131.5,
+    "name" : "CBG",
+    "rate" : 1.89
+  }, {
+    "PV" : 74.25,
+    "name" : "COM7",
+    "rate" : 1.41
+  }, {
+    "PV" : 60.75,
+    "name" : "CPALL",
+    "rate" : 1.57
+  }, {
+    "PV" : 27.25,
+    "name" : "CPF",
+    "rate" : 3.72
+  }, {
+    "PV" : 50.5,
+    "name" : "CPN",
+    "rate" : 1.46
+  }, {
+    "PV" : 33.25,
+    "name" : "CRC",
+    "rate" : 1.25
+  }, {
+    "PV" : 548,
+    "name" : "DELTA",
+    "rate" : 0.66
+  }, {
+    "PV" : 31,
+    "name" : "DTAC",
+    "rate" : 9.72
+  }, {
+    "PV" : 59.5,
+    "name" : "EA",
+    "rate" : 0.51
+  }, {
+    "PV" : 174,
+    "name" : "EGCO",
+    "rate" : 3.85
+  }, {
+    "PV" : 21,
+    "name" : "GLOBAL",
+    "rate" : 0.82
+  }, {
+    "PV" : 72,
+    "name" : "GPSC",
+    "rate" : 2.2
+  }, {
+    "PV" : 33.75,
+    "name" : "GULF",
+    "rate" : 1.16
+  }, {
+    "PV" : 13.8,
+    "name" : "HMPRO",
+    "rate" : 2.17
+  }, {
+    "PV" : 64,
+    "name" : "INTUCH",
+    "rate" : 3.89
+  }, {
+    "PV" : 45.5,
+    "name" : "IVL",
+    "rate" : 1.58
+  }, {
+    "PV" : 119.5,
+    "name" : "KBANK",
+    "rate" : 2.11
+  }, {
+    "PV" : 10.8,
+    "name" : "KTB",
+    "rate" : 2.57
+  }, {
+    "PV" : 73.25,
+    "name" : "KTC",
+    "rate" : 1.14
+  }, {
+    "PV" : 8,
+    "name" : "LH",
+    "rate" : 6.41
+  }, {
+    "PV" : 31.5,
+    "name" : "MINT",
+    "rate" : 1.11
+  }, {
+    "PV" : 61.5,
+    "name" : "MTC",
+    "rate" : 0.62
+  }, {
+    "PV" : 30.25,
+    "name" : "OR",
+    "rate" : 0.33
+  }, {
+    "PV" : 36.75,
+    "name" : "OSP",
+    "rate" : 2.99
+  }, {
+    "PV" : 39.25,
+    "name" : "PTT",
+    "rate" : 2.61
+  }, {
+    "PV" : 117.5,
+    "name" : "PTTEP",
+    "rate" : 3.63
+  }, {
+    "PV" : 63,
+    "name" : "PTTGC",
+    "rate" : 1.56
+  }, {
+    "PV" : 50.75,
+    "name" : "RATCH",
+    "rate" : 4.82
+  }, {
+    "PV" : 75.25,
+    "name" : "SAWAD",
+    "rate" : 2.45
+  }, {
+    "PV" : 102,
+    "name" : "SCB",
+    "rate" : 2.29
+  }, {
+    "PV" : 442,
+    "name" : "SCC",
+    "rate" : 3.23
+  }, {
+    "PV" : 55.5,
+    "name" : "SCGP",
+    "rate" : 0.78
+  }, {
+    "PV" : 89.5,
+    "name" : "TISCO",
+    "rate" : 7.18
+  }, {
+    "PV" : 37.25,
+    "name" : "TOA",
+    "rate" : 1.49
+  }, {
+    "PV" : 59.25,
+    "name" : "TOP",
+    "rate" : 1.25
+  }, {
+    "PV" : 3.14,
+    "name" : "TRUE",
+    "rate" : 2.27
+  }, {
+    "PV" : 1.12,
+    "name" : "TTB",
+    "rate" : 4.02
+  }, {
+    "PV" : 17.7,
+    "name" : "TU",
+    "rate" : 4.11
+  }, {
+    "PV" : 6.2,
+    "name" : "VGI",
+    "rate" : 1.01
+  } ],
+  "asset" : {
+    "L9VohzcsOrWkOkanK8Y3canrkKw2" : {
+      "bond" : {
+        "1622772734013" : {
+          "dateEnd" : 1626236360644,
+          "everyTimeD" : 2,
+          "name" : "ILB217A",
+          "note" : "",
+          "rateType" : 2,
+          "returnRate" : "1.20",
+          "returnRateName" : "1.20 %",
+          "returnTimes" : 1,
+          "returnYear" : "6000.00",
+          "type" : "6 เดือนครั้ง",
+          "value" : "500000",
+          "valueYear" : "506000.00"
+        }
+      },
+      "other" : {
+        "1622780416881" : {
+          "dateEnd" : 0,
+          "everyTimeD" : 1,
+          "name" : "Mutual Fund SCB",
+          "note" : "",
+          "rateType" : 2,
+          "returnRate" : "10",
+          "returnRateName" : "10 %",
+          "returnTimes" : 1,
+          "returnYear" : "20000.00",
+          "type" : "ปีละครั้ง",
+          "value" : "200000",
+          "valueYear" : "220000.00"
+        }
+      },
+      "property" : {
+        "1622772916307" : {
+          "amountReturn" : "1",
+          "dateEnd" : 0,
+          "everyTimeD" : 12,
+          "name" : "Condo For Rent 1 room",
+          "note" : "",
+          "rateType" : 1,
+          "returnRate" : 10000,
+          "returnRateName" : "10000 บาท",
+          "returnTimes" : 12,
+          "returnYear" : "120000.00",
+          "type" : "เดือนละครั้ง",
+          "value" : "2000000",
+          "valueYear" : "2120000.00"
+        }
+      },
+      "saving" : {
+        "1622772575897" : {
+          "bank" : "ไทยพาณิชย์",
+          "bankNo" : 4,
+          "note" : "",
+          "rate" : 0.25,
+          "returnYear" : 50,
+          "type" : "ออมทรัพย์",
+          "typeNo" : 1,
+          "value" : "20000",
+          "valueYear" : 20050
+        },
+        "1622780113466" : {
+          "bank" : "กรุงเทพ",
+          "bankNo" : 1,
+          "note" : "",
+          "rate" : 0.25,
+          "returnYear" : 375,
+          "type" : "ออมทรัพย์",
+          "typeNo" : 1,
+          "value" : "150000",
+          "valueYear" : 150375
+        },
+        "1622780565501" : {
+          "bank" : "กสิกรไทย",
+          "bankNo" : 3,
+          "note" : "",
+          "rate" : 0.25,
+          "returnYear" : 1250,
+          "type" : "ออมทรัพย์",
+          "typeNo" : 1,
+          "value" : "500000",
+          "valueYear" : 501250
+        }
+      },
+      "stock" : {
+        "1622772696673" : {
+          "PV" : 169,
+          "amount" : "1000",
+          "name" : "ADVANC",
+          "note" : "",
+          "rate" : 4.08,
+          "returnYear" : "6895.20",
+          "valueAll" : "169000.00",
+          "valueYear" : "175895.20"
+        }
+      }
+    }
+  },
+  "expenses" : {
+    "L9VohzcsOrWkOkanK8Y3canrkKw2" : {
+      "1622771942164" : {
+        "dateEnd" : 0,
+        "everyTimeD" : 365,
+        "expenseTimes" : 365,
+        "expenseYear" : 109500,
+        "name" : "food",
+        "note" : "",
+        "type" : "วันละครั้ง",
+        "value" : "300"
+      },
+      "1622772013995" : {
+        "dateEnd" : 0,
+        "everyTimeD" : 12,
+        "expenseTimes" : 12,
+        "expenseYear" : 8400,
+        "name" : "electricity bill",
+        "note" : "",
+        "type" : "เดือนละครั้ง",
+        "value" : "700"
+      },
+      "1622772107092" : {
+        "dateEnd" : 0,
+        "everyTimeD" : 12,
+        "expenseTimes" : 12,
+        "expenseYear" : 62400,
+        "name" : "room rate bill",
+        "note" : "",
+        "type" : "เดือนละครั้ง",
+        "value" : "5200"
+      },
+      "1622772145454" : {
+        "dateEnd" : 0,
+        "everyTimeD" : 12,
+        "expenseTimes" : 12,
+        "expenseYear" : 6000,
+        "name" : "travel Expenses",
+        "note" : "",
+        "type" : "เดือนละครั้ง",
+        "value" : "500"
+      },
+      "1622772222969" : {
+        "dateEnd" : 0,
+        "everyTimeD" : 12,
+        "expenseTimes" : 12,
+        "expenseYear" : 7200,
+        "name" : "internet bill",
+        "note" : "",
+        "type" : "เดือนละครั้ง",
+        "value" : "600"
+      },
+      "1622772268889" : {
+        "dateEnd" : 0,
+        "everyTimeD" : 12,
+        "expenseTimes" : 12,
+        "expenseYear" : 1200,
+        "name" : "Water bill",
+        "note" : "",
+        "type" : "เดือนละครั้ง",
+        "value" : "100"
+      },
+      "1622772321691" : {
+        "dateEnd" : 0,
+        "everyTimeD" : 4,
+        "expenseTimes" : 4,
+        "expenseYear" : 4800,
+        "name" : "Maintenance fee",
+        "note" : "",
+        "type" : "3 เดือนครั้ง",
+        "value" : "1200"
+      }
+    }
+  },
+  "user_uid" : {
+    "3INozpz5OCfMiwaS42oVBcqcnmB3" : {
+      "email" : "test@test.com",
+      "fullname" : "test",
+      "phone" : "0123456789",
+      "role" : "1"
+    },
+    "41qUmUEJAZTK8ECrK91a0XoPFxI3" : {
+      "email" : "Gamelnwza@gmail.con",
+      "fullname" : "Nonggame",
+      "notices" : {
+        "1587149242292" : {
+          "PostID" : "1587149178685",
+          "content" : "รอหมอตอบ",
+          "status" : true
+        }
+      },
+      "password" : "123456",
+      "phone" : "0800001202",
+      "role" : "1"
+    },
+    "8wrGlv979YOsOiGoCTLs0Bbbhb12" : {
+      "email" : "e1@e1.com",
+      "fullname" : "e1",
+      "phone" : "0123456789",
+      "role" : "1"
+    },
+    "9ZcqHZlJOcawqDDs6ldOOX0xSvB3" : {
+      "email" : "Test60@gmail.com",
+      "fullname" : "Fijdjd",
+      "phone" : "111124254",
+      "role" : "1"
+    },
+    "Hr2YrEGZrwbtyi2nFLCCVH9b6dG2" : {
+      "email" : "Tt@tt.tt",
+      "fullname" : "Tt",
+      "notices" : {
+        "1587064970601" : {
+          "PostID" : "1587047933716",
+          "content" : "เจอได้ หลัง 7 ปิด",
+          "status" : false
+        },
+        "1587124965978" : {
+          "PostID" : "1587046212613",
+          "content" : "ดีตวย",
+          "status" : false
+        },
+        "1587125010380" : {
+          "PostID" : "1587046212613",
+          "content" : "ดีตวย",
+          "status" : false
+        },
+        "1587125039654" : {
+          "PostID" : "1587046212613",
+          "content" : "555",
+          "status" : false
+        },
+        "1587128466295" : {
+          "PostID" : "1587047933716",
+          "content" : "ลองดู",
+          "status" : false
+        },
+        "1587128517118" : {
+          "PostID" : "1587047933716",
+          "content" : "อีกครั้ง",
+          "status" : false
+        },
+        "1587138713848" : {
+          "PostID" : "1587047933716",
+          "content" : "แนะนำว่า ให้ลองทำกิจกรรมที่ชอบดูนะคะ",
+          "status" : false
+        }
+      },
+      "phone" : "123456789",
+      "role" : "1"
+    },
+    "P7m4sPTR5sUObc0ciPZFcrPtoEA2" : {
+      "email" : "Test@gmail.com",
+      "fullname" : "Test11",
+      "notices" : {
+        "1586980403965" : {
+          "PostID" : "1586980389787",
+          "content" : "เหงาเหมือนกัน",
+          "status" : true
+        },
+        "1586980419124" : {
+          "PostID" : "1586980389787",
+          "content" : "เหงา++",
+          "status" : false
+        },
+        "1586980442649" : {
+          "PostID" : "1586980389787",
+          "content" : "อายโสด รักเกมส์มาก",
+          "status" : false
+        },
+        "1586980459756" : {
+          "PostID" : "1586980389787",
+          "content" : "หมอไม่ตอบผมเลยครับบ",
+          "status" : false
+        },
+        "1586980477384" : {
+          "PostID" : "1586980389787",
+          "content" : "หมอตอบผมหน่อยยย",
+          "status" : false
+        },
+        "1586980601596" : {
+          "PostID" : "1586980389787",
+          "content" : "รู้แหละว่าเหงา",
+          "status" : false
+        },
+        "1586980957194" : {
+          "PostID" : "1586980389787",
+          "content" : "หมอมาแล้วค้าบบบ",
+          "status" : false
+        }
+      },
+      "phone" : "0123456789",
+      "role" : "1"
+    },
+    "QccL29Gbwje16zNsEQXMKNzGqk83" : {
+      "expoToken" : "ExponentPushToken[dDnJc3E-WlVDcFCwRyei0-]"
+    },
+    "RgLbPjUTawVwJgBbeVQzeQ6lKNm2" : {
+      "email" : "test111@gmail.com",
+      "fullname" : "test",
+      "phone" : "0123456789",
+      "role" : "1"
+    },
+    "UQSn0g4Cwye0FHyF5xkdBVSdjXw2" : {
+      "email" : "Dev@gmail.com",
+      "fullname" : "Dev1",
+      "notices" : {
+        "1587146818070" : {
+          "PostID" : "1587146779898",
+          "content" : "ของกูได้",
+          "status" : false
+        },
+        "1587146938129" : {
+          "PostID" : "1587146779898",
+          "content" : "ลองเม้นอยู่",
+          "status" : false
+        },
+        "1587147059564" : {
+          "PostID" : "1587146779898",
+          "content" : "ว่า\n",
+          "status" : false
+        }
+      },
+      "password" : "111111",
+      "phone" : "0000000",
+      "role" : "1"
+    },
+    "VtF7nhr9utduq32HtVVZMzuOpSm1" : {
+      "email" : "Y@g.co",
+      "fullname" : "Yy",
+      "phone" : "11",
+      "role" : "1"
+    },
+    "aijkLk646ZOf3xzKEJfrIwqx6Kr2" : {
+      "email" : "flimlnw@hotmail.com",
+      "fullname" : "Ndjdh",
+      "notices" : {
+        "1587147322502" : {
+          "PostID" : "1587147141930",
+          "content" : "ำีวีำวีำ\n",
+          "status" : false
+        },
+        "1587147358094" : {
+          "PostID" : "1587147141930",
+          "content" : "ไอ่ท็อป",
+          "status" : false
+        },
+        "1587147916528" : {
+          "PostID" : "1587147141930",
+          "content" : "ีิีิืัืัทัืีท",
+          "status" : false
+        }
+      },
+      "password" : "111111",
+      "phone" : "11111",
+      "role" : "1"
+    },
+    "iQuapd4nshc6xmWzz7HZ79aceyz2" : {
+      "email" : "t@t.com",
+      "expoToken" : "ExponentPushToken[VYkd2WF3uZL64EjkyT29ik]",
+      "fullname" : "t@t",
+      "notices" : {
+        "1616363419792" : {
+          "PostID" : "1616362913044",
+          "content" : "Dddd",
+          "status" : true
+        }
+      },
+      "phone" : "0123456789",
+      "role" : "1"
+    },
+    "kDD3XtzlCGU1bCo0I78q4lHHnS73" : {
+      "email" : "aa@a.com",
+      "fullname" : "aa",
+      "phone" : "0000000000",
+      "role" : "1"
+    },
+    "kqwRwBTfqoRcReqoD7g6A0Y52Nk1" : {
+      "email" : "a@a.com",
+      "fullname" : "a@a.a",
+      "phone" : "0123456789",
+      "role" : "1"
+    },
+    "mqwa6NB1h5OH7Rv0otEUl58kWhk1" : {
+      "email" : "z@z.com",
+      "fullname" : "z@z",
+      "phone" : "0123456789",
+      "role" : "1"
+    },
+    "nrUq4JKEW4hNpQUgRDoBjti9Uhn2" : {
+      "email" : "Doc1@gmail.com",
+      "fullname" : "Doctor1",
+      "phone" : "0123456789",
+      "role" : "2"
+    },
+    "shywcwolUfaXZD0SgV0286PQq4v1" : {
+      "email" : "Y@g.com",
+      "fullname" : "Kk",
+      "phone" : "11",
+      "role" : "1"
+    }
+  },
+  "users_uid" : {
+    "41qUmUEJAZTK8ECrK91a0XoPFxI3" : {
+      "push_token" : "ExponentPushToken[DOPs-rI9j5Ylg_4EE0JSnz]"
+    }
+  }
+}
