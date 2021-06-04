@@ -61,6 +61,7 @@
    ```
 
 # react-native-svg
+   ```jsx
    expo install react-native-svg
    ```
 
