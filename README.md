@@ -21,30 +21,46 @@
    ```
 
 
-# Rapi UI   
+# Rapi UI
+   ```jsx   
    npm install react-native-rapi-ui
+   ```
 
 # react-native-modal-datetime-picker
+   ```jsx
    npm i react-native-modal-datetime-picker @react-native-community/datetimepicker
+   ```
 
 # Moment
+   ```jsx
    npm install moment --save
+   ```
 
 # react-native-searchable-dropdown
+   ```jsx
    npm install --save react-native-searchable-dropdown
+   ```
 
 # react-native-dropdown-autocomplete-textinput
+   ```jsx
    npm i react-native-dropdown-autocomplete-textinput --save
+   ```
 
 # react-native-elements
+   ```jsx
    npm install react-native-elements
+   ```
 
 # react-native-popup-dialog
+   ```jsx
    npm install --save react-native-popup-dialog
-
+   ```
 # victory-native
+   ```jsx
    npm install --save victory-native
+   ```
 
 # react-native-svg
    expo install react-native-svg
+   ```
 
